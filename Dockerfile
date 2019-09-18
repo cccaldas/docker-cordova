@@ -1,4 +1,4 @@
-FROM beevelop/android-nodejs
+FROM beevelop/android-nodejs:10
 
 ENV CORDOVA_VERSION=8.0.0
 
